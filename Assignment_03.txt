@@ -1,0 +1,15 @@
+Q1. What is the difference between in-place and out-place sorting algorithms?
+Ans1.
+An in-place sorting algorithm sorts the elements in place: that is, it needs only O(1) extra space.
+An out-of-place sorting algorithm needs extra space to put the elements in as it's sorting them. Usually this means O(n) extra space.
+Bubble sort is an example of in-place sorting.
+Merge-sort is an example of out-of-place sorting.
+
+Q3. Suggest some practical examples of using in-place and out-place techniques.
+Ans3.
+Practical examples of in-place techniques:
+Copying and pasting text from one file to another. (cmd + C, cmd + V)
+Sorting files in a folder by name.
+Practical examples of Out-place techniques:
+Cutting and pasting text from one file to another. (cmd + X, cmd + V)
+Mapping an array returns a new array.
