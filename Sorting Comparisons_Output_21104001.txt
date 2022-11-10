@@ -1,0 +1,8 @@
+COMPARISON BETWEEN INSERTION AND BUBBLE SORT.
+
+1. ON THE BASIS OF NUMBER OF COMPARISONS :  BOTH REQUIRE EQUAL NUMBER OF COMPARISONS.
+
+2. ON THE BASIS OF NUMBE ROF SWAPS :  BOTH REQUIRE EQUAL NUMBER OF SWAPS.
+
+3 . As both BubbleSort and SelectionSort are In-place algorithms, hence both of their Inplace Algorithms have been written above
+
